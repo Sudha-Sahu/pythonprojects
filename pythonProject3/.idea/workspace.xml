@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="640224d8-64c7-4455-8b74-9163bec5d67d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/BookStore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/BookStore/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/BookStore/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/BookStore/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/book/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/book/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/book/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/cart/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/cart/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/cart/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/cart/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/user/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/user/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStoreProject/BookStore/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreProject/BookStore/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserNoteProject/UserNotes/UserNotes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserNoteProject/UserNotes/UserNotes/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserNoteProject/UserNotes/UserNotes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserNoteProject/UserNotes/UserNotes/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserNoteProject/UserNotes/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserNoteProject/UserNotes/user_notes" beforeDir="false" afterPath="$PROJECT_DIR$/UserNoteProject/UserNotes/user_notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_django/phone_book/contacts/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_django/phone_book/contacts/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_django/phone_book/contacts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_django/phone_book/contacts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_django/phone_book/contacts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_django/phone_book/contacts/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/basic_django" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2A1koPXrOtAogvOqHR5hcT26c1E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonProject2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject\BookStore\cart" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject\BookStore\placeorder" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject\BookStore\book" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\UserNoteProject\UserNotes" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject\BookStore" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\UserNoteProject\UserNotes\user\templates" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject\BookStore" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject\BookStore\media\book\images" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject\BookStore\book\media\images" />
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject3\BookStoreProject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="640224d8-64c7-4455-8b74-9163bec5d67d" name="Changes" comment="" />
+      <created>1654184658198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654184658198</updated>
+    </task>
+    <servers />
+  </component>
+</project>
