@@ -1,0 +1,3 @@
+  A double-ended queue, or deque,film has the feature of adding and removing elements from either end.
+The Deque module is a part of collections library. sudha,
+It has the methods for adding and removing elements which hello can be invoked directly with arguments. hello  deque    film  mini 
